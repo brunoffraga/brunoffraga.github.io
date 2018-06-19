@@ -41,7 +41,6 @@ p{
 .flexU iframe{
 	margin-top: 3%;
 	margin-left: 3%;
-	border-radius: 50%;
 }
 
 .flexU ul{
@@ -93,8 +92,13 @@ p{
 	flex: 50%;
 }
 
+#dados a{
+	font: arial;
+	color: #000;
+}
+
 .flex #dados h2{
-	margin-right: 30%;
+	margin-left: 18%;
 }
 
 .flex #dados p{
@@ -155,6 +159,10 @@ p{
 	margin-left: 15%;
 }
 
+.flex #sociais  a{
+	color: #000;
+}
+
 #sei{
 	margin-left: 40%;
 	word-wrap:  normal;
@@ -181,13 +189,13 @@ p{
 .barraf h3 a{
 	font: arial;
 	color: #fff;
-	text-decoration:none;	
+	text-decoration: none;	
 }
 
 .barraf p{
 	font-size: 16px;
 	margin-top: 1%;
-	margin-left: 90%;
+	margin-left: 84%;
 }
 
 *{
